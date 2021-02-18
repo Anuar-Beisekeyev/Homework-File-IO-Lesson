@@ -1,0 +1,13 @@
+G:\Проекты\HomeworkFileIOLesson\PartTwo\bin\Debug\netcoreapp3.1\PartTwo.exe
+G:\Проекты\HomeworkFileIOLesson\PartTwo\bin\Debug\netcoreapp3.1\PartTwo.deps.json
+G:\Проекты\HomeworkFileIOLesson\PartTwo\bin\Debug\netcoreapp3.1\PartTwo.runtimeconfig.json
+G:\Проекты\HomeworkFileIOLesson\PartTwo\bin\Debug\netcoreapp3.1\PartTwo.runtimeconfig.dev.json
+G:\Проекты\HomeworkFileIOLesson\PartTwo\bin\Debug\netcoreapp3.1\PartTwo.dll
+G:\Проекты\HomeworkFileIOLesson\PartTwo\bin\Debug\netcoreapp3.1\PartTwo.pdb
+G:\Проекты\HomeworkFileIOLesson\PartTwo\obj\Debug\netcoreapp3.1\PartTwo.csprojAssemblyReference.cache
+G:\Проекты\HomeworkFileIOLesson\PartTwo\obj\Debug\netcoreapp3.1\PartTwo.AssemblyInfoInputs.cache
+G:\Проекты\HomeworkFileIOLesson\PartTwo\obj\Debug\netcoreapp3.1\PartTwo.AssemblyInfo.cs
+G:\Проекты\HomeworkFileIOLesson\PartTwo\obj\Debug\netcoreapp3.1\PartTwo.csproj.CoreCompileInputs.cache
+G:\Проекты\HomeworkFileIOLesson\PartTwo\obj\Debug\netcoreapp3.1\PartTwo.dll
+G:\Проекты\HomeworkFileIOLesson\PartTwo\obj\Debug\netcoreapp3.1\PartTwo.pdb
+G:\Проекты\HomeworkFileIOLesson\PartTwo\obj\Debug\netcoreapp3.1\PartTwo.genruntimeconfig.cache
